@@ -23,7 +23,7 @@ https://gg-mg.github.io/AkanNaming/.
 
 ## Support and contact
 
-Support is available during working hours CDT. Please email ggichukiokc@gmail.com
+Support is available during working hours CDT. Please send an email to ggichukiokc@gmail.com
 
 ## MIT License
 Copyright (c) [2019] [George Gichuki]
