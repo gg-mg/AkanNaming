@@ -9,14 +9,10 @@ The Akan people of Ghana name people depending on an individual's year of birth,
 My program generates the Akan name given year, month, day and gender.
 
 ## Usage
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
+The year placeholder is marked with YYYY. Onclick,the place holder prompts the user to input year.
+The month placeholder is marked with MM. Onclick,the place holder prompts the user to input month.
+The day placeholder is marked with DD. Onclick,the place holder prompts the user to input day.
+The gender selection is by click of a button. User will select appropriate button, either male or female.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
