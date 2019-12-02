@@ -21,6 +21,10 @@ The gender selection is by click of a button. User will select appropriate butto
 Live link:
 https://gg-mg.github.io/AkanNaming/.
 
+## Support and contact
+
+Support is available during working hours CDT. Please email ggichukiokc@gmail.com
+
 ## MIT License
 Copyright (c) [2019] [George Gichuki]
 
