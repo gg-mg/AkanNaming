@@ -15,9 +15,8 @@ The day placeholder is marked with DD. Onclick,the place holder prompts the user
 The gender selection is by click of a button. User will select appropriate button, either male or female.
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+Live link:
+https://gg-mg.github.io/AkanNaming/.
 
 ## MIT License
 Copyright (c) [2019] [George Gichuki]
