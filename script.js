@@ -47,7 +47,7 @@ function myFunction() {
   var d = new Date(year, (month - 1), day);
 
   var dayofweek = d.getDay();
-  alert(dayofweek);
+
 
   var man = ['Kwasi', 'Kwadwo', 'Kwabena', 'Kwaku', 'Yaw', 'Kofi', 'Kwame'];
   var woman = ['Akosua', 'Adwoa', 'Abenaa', 'Akua', 'Yaa', 'Afua', 'Ama'];
@@ -55,59 +55,59 @@ function myFunction() {
   if (female.checked) {
 
     if (dayofweek == 0) {
-      alert(woman[0]);
+      alert("Akan name is " + woman[0]);
     }
 
     if (dayofweek == 1) {
-      alert(woman[1]);
+      alert("Akan name is " + woman[1]);
     }
 
     if (dayofweek == 2) {
-      alert(woman[2]);
+      alert("Akan name is " + woman[2]);
     }
 
     if (dayofweek == 3) {
-      alert(woman[3]);
+      alert("Akan name is " + woman[3]);
     }
 
     if (dayofweek == 4) {
-      alert(women[4]);
+      alert("Akan name is " + woman[4]);
     }
 
     if (dayofweek == 5) {
-      alert(woman[5]);
+      alert("Akan name is " + woman[5]);
     }
 
     if (dayofweek == 6) {
-      alert(woman[6]);
+      alert("Akan name is " + woman[6]);
     }
   } else {
     if (dayofweek == 0) {
-      alert(man[0]);
+      alert("Akan name is " + man[0]);
     }
 
     if (dayofweek == 1) {
-      alert(man[1]);
+      alert("Akan name is " + man[1]);
     }
 
     if (dayofweek == 2) {
-      alert(man[2]);
+      alert("Akan name is " + man[2]);
     }
 
     if (dayofweek == 3) {
-      alert(man[3]);
+      alert("Akan name is " + man[3]);
     }
 
     if (dayofweek == 4) {
-      alert(man[4]);
+      alert("Akan name is " + man[4]);
     }
 
     if (dayofweek == 5) {
-      alert(man[5]);
+      alert("Akan name is " + man[5]);
     }
 
     if (dayofweek == 6) {
-      alert(man[6]);
+      alert("Akan name is " + man[6]);
     }
   }
 }
