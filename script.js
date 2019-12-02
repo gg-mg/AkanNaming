@@ -12,17 +12,19 @@ function getYear() {
 function getMonth() {
   document.getElementById("myMonth").value = parseInt(prompt("Enter the month you were born:"));
   month = parseInt(document.getElementById("myMonth").value);
-  if(month<1 || month>12){document.getElementById("myMonth").value = parseInt(prompt("Enter valid month between 1 and 12:"));
-  month = parseInt(document.getElementById("myMonth").value);
-  }  
+  if (month < 1 || month > 12) {
+    document.getElementById("myMonth").value = parseInt(prompt("Enter valid month between 1 and 12:"));
+    month = parseInt(document.getElementById("myMonth").value);
+  }
   return month;
 }
 
 function dDay() {
   document.getElementById("myDay").value = parseInt(prompt("Enter the month you were born:"));
   day = parseInt(document.getElementById("myDay").value);
-  if(day<1 ||day>31){document.getElementById("myDay").value = parseInt(prompt("Enter a valid day between 1 and 31:"));
-  day = parseInt(document.getElementById("myDay").value);
+  if (day < 1 || day > 31) {
+    document.getElementById("myDay").value = parseInt(prompt("Enter a valid day between 1 and 31:"));
+    day = parseInt(document.getElementById("myDay").value);
   }
   return day;
 }
@@ -47,8 +49,8 @@ function myFunction() {
   var dayofweek = d.getDay();
   alert(dayofweek);
 
-  var man= ['Kwasi', 'Kwadwo', 'Kwabena', 'Kwaku', 'Yaw', 'Kofi', 'Kwame'];
-  var woman=['Akosua', 'Adwoa', 'Abenaa', 'Akua', 'Yaa', 'Afua', 'Ama'];
+  var man = ['Kwasi', 'Kwadwo', 'Kwabena', 'Kwaku', 'Yaw', 'Kofi', 'Kwame'];
+  var woman = ['Akosua', 'Adwoa', 'Abenaa', 'Akua', 'Yaa', 'Afua', 'Ama'];
 
   if (female.checked) {
 
