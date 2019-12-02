@@ -41,6 +41,9 @@ function myFunction() {
   var dayofweek = d.getDay();
   alert(dayofweek);
 
+  var man= ['Kwasi', 'Kwadwo', 'Kwabena', 'Kwaku', 'Yaw', 'Kofi', 'Kwame'];
+  var woman=['Akosua', 'Adwoa', 'Abenaa', 'Akua', 'Yaa', 'Afua', 'Ama'];
+
   if (female.checked) {
 
     if (dayofweek == 0) {
