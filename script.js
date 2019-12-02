@@ -47,59 +47,59 @@ function myFunction() {
   if (female.checked) {
 
     if (dayofweek == 0) {
-      alert("Akosua");
+      alert(woman[0]);
     }
 
     if (dayofweek == 1) {
-      alert("Adwoa");
+      alert(woman[1]);
     }
 
     if (dayofweek == 2) {
-      alert("Abenaa");
+      alert(woman[2]);
     }
 
     if (dayofweek == 3) {
-      alert("Akua");
+      alert(woman[3]);
     }
 
     if (dayofweek == 4) {
-      alert("Yaa");
+      alert(women[4]);
     }
 
     if (dayofweek == 5) {
-      alert("Afua");
+      alert(woman[5]);
     }
 
     if (dayofweek == 6) {
-      alert("Ama");
+      alert(woman[6]);
     }
   } else {
     if (dayofweek == 0) {
-      alert("Kwasi");
+      alert(man[0]);
     }
 
     if (dayofweek == 1) {
-      alert("Kwadwo");
+      alert(man[1]);
     }
 
     if (dayofweek == 2) {
-      alert("Kwabena");
+      alert(man[2]);
     }
 
     if (dayofweek == 3) {
-      alert("Kwaku");
+      alert(man[3]);
     }
 
     if (dayofweek == 4) {
-      alert("Yaw");
+      alert(man[4]);
     }
 
     if (dayofweek == 5) {
-      alert("Kofi");
+      alert(man[5]);
     }
 
     if (dayofweek == 6) {
-      alert("Kwame");
+      alert(man[6]);
     }
   }
 }
